@@ -5,7 +5,6 @@ const data = [
   { label: "B", value: 50, color: "#36A2EB" },
   { label: "C", value: 20, color: "#FFCE56" },
   { label: "D", value: 90, color: "red" },
-  { label: "E", value: 10, color: "blue" },
 ];
 export default function Home() {
   return (
